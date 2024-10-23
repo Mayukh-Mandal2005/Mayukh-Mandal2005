@@ -1,8 +1,12 @@
 [![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](https://github.com/Mayukh-Mandal2005)
 <h1>
-  <p align="center">
+  <!--<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+there!;I+am+Mayukh+Mandal!;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
-  </p>
+  </p>-->
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=3000&pause=1000&color=00E5E5&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+there!;I+am+Mayukh+Mandal!;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
+  </p> 
 </h1>
 
 <h2 align="center">A passionate DSA problem solver and web developer from India</h2>
