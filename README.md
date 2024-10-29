@@ -74,4 +74,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayukh-mandal2005&theme=github-dark&hide_border=true" alt="Mayukh's Contribution Graph" />
 </p>
 
+<br>
+
+<h2 align="center">GSSoC-24 Badges 🪶</h2>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+</div>
+
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayukh-mandal2005&label=Profile%20views&color=0e75b6&style=flat" alt="mayukh-mandal2005" /> </p>
