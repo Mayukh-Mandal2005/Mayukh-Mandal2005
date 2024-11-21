@@ -56,15 +56,16 @@
 
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayukh-mandal2005&theme=onedark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayukh-mandal2005&theme=radical" alt="GitHub Streak Stats" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukh-mandal2005&show_icons=true&theme=onedark&locale=en" alt="mayukh-mandal2005" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukh-mandal2005&show_icons=true&theme=onedark&locale=en" alt="mayukh-mandal2005" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukh-mandal2005&show_icons=true&theme=radical&langs_count=20&locale=en" alt="mayukh-mandal2005"/>
 </div>
 <br>
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukh-mandal2005&show_icons=true&theme=onedark&locale=en" alt="mayukh-mandal2005" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukh-mandal2005&show_icons=true&theme=radical&locale=en" alt="mayukh-mandal2005" /></p>
 </div>
 
 <br>
