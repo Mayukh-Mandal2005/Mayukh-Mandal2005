@@ -55,9 +55,6 @@
 <br>
 
 <h2 align="center">GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayukh-mandal2005&theme=radical" alt="GitHub Streak Stats" />
-</div>
 <br>
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukh-mandal2005&show_icons=true&theme=onedark&locale=en" alt="mayukh-mandal2005" /> -->
