@@ -49,32 +49,24 @@
 
 <br>
 
-<!-- <h2 align="center">GitHub Trophies</h2>
+<h2 align="center">GitHub Trophies</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mayukh-mandal2005&theme=radical&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
-</div> -->
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=mayukh-mandal2005&theme=radical&no-frame=true&column=4)
+</div>
 
 
 <br>
 
-<!-- <h2 align="center">GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 <br>
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukh-mandal2005&show_icons=true&theme=onedark&locale=en" alt="mayukh-mandal2005" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukh-mandal2005&show_icons=true&theme=onedark&locale=en" alt="mayukh-mandal2005" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukh-mandal2005&show_icons=true&theme=radical&langs_count=20&locale=en" alt="mayukh-mandal2005"/>
 </div>
 <br>
 <div align="center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukh-mandal2005&show_icons=true&theme=radical&locale=en" alt="mayukh-mandal2005" /></p>
-</div> -->
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayukh-mandal2005&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayukh-mandal2005&layout=compact&theme=radical&cache_seconds=1800)
-
+</div>
 
 <br>
 
