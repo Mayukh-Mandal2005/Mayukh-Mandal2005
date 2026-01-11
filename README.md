@@ -1,4 +1,6 @@
-[![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](https://github.com/Mayukh-Mandal2005)
+<!--[![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](https://github.com/Mayukh-Mandal2005)-->
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+
 <h1>
   <!--<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+there!;I+am+Mayukh+Mandal!;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
@@ -47,14 +49,17 @@
 
 <br>
 
-<h2 align="center">GitHub Trophies</h2>
+<!-- <h2 align="center">GitHub Trophies</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mayukh-mandal2005&theme=radical&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
-</div>
+</div> -->
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=mayukh-mandal2005&theme=radical&no-frame=true&column=4)
+
 
 <br>
 
-<h2 align="center">GitHub Stats</h2>
+<!-- <h2 align="center">GitHub Stats</h2>
 <br>
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukh-mandal2005&show_icons=true&theme=onedark&locale=en" alt="mayukh-mandal2005" /> -->
@@ -63,7 +68,13 @@
 <br>
 <div align="center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukh-mandal2005&show_icons=true&theme=radical&locale=en" alt="mayukh-mandal2005" /></p>
-</div>
+</div> -->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayukh-mandal2005&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayukh-mandal2005&layout=compact&theme=radical&cache_seconds=1800)
+
 
 <br>
 
