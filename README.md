@@ -49,10 +49,10 @@
 
 <br>
 
-<h2 align="center">GitHub Trophies</h2>
+<!-- <h2 align="center">GitHub Trophies</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mayukh-mandal2005&theme=radical&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 
 <br>
