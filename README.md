@@ -1,92 +1,175 @@
-<!--[![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](https://github.com/Mayukh-Mandal2005)-->
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
-
-<h1>
-  <!--<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+there!;I+am+Mayukh+Mandal!;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
-  </p>-->
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=3000&pause=1000&color=00E5E5&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+there!;I+am+Mayukh+Mandal!;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
-  </p> 
-</h1>
-
-<h2 align="center">A passionate DSA problem solver and web developer from India</h2>
-
-<br>
-
-<img align="right" style="float:right; width: 500px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
-
-- 🌱 I’m currently learning **Data Structures and Algorithms in C++**.
-
-- 👯 I’m looking to collaborate on **Open Source projects**.
-
-- 🤝 I’m looking for help with **DSA problem solving**.
-
-- 📫 How to reach me: **mandal07mayukh@gmail.com**
-
-
-<br>
-
-<br>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayukh-mandal-a8a938276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayukh-mandal-a8a938276" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/mayukh_0707/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mandal07mayukh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mayukh_0707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mandal07mayukh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mayukh_07/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mayukh_07/profile" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mandal07mayukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mandal07mayukh" height="30" width="40" /></a>
-<a href="https://instagram.com/mandal._.mayukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mandal._.mayukh" height="30" width="40" /></a>
-</p>
-
-<br>
-
-
-<h2 align="center">Languages and Tools:</h2>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<br>
-
-<!-- <h2 align="center">GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayukh-mandal2005&theme=radical&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
-</div> -->
-
-
-<br>
-
-<h2 align="center">GitHub Stats</h2>
-<br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukh-mandal2005&show_icons=true&theme=onedark&locale=en" alt="mayukh-mandal2005" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukh-mandal2005&show_icons=true&theme=radical&langs_count=20&locale=en" alt="mayukh-mandal2005"/>
-</div>
-<br>
-<div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukh-mandal2005&show_icons=true&theme=radical&locale=en" alt="mayukh-mandal2005" /></p>
-</div>
-
-<br>
-
-<h2 align="center">🛠️ Contribution Graph</h2>
+<!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayukh-mandal2005&theme=github-dark&hide_border=true" alt="Mayukh's Contribution Graph" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi+👋+I'm+Mayukh+Mandal;I+Build+Logic+Into+Systems;DSA+%2B+Backend+Engineer" />
+</p>
+
+<h3 align="center">⚔️ First-Principles Thinker • Problem Solver • Builder</h3>
+
+---
+
+<!-- ================= ABOUT + GIF TABLE ================= -->
+<table>
+<tr>
+<td valign="top" width="55%">
+
+## 🚀 Who Am I?
+
+- 🔥 Mastering **DSA — Striver A2Z + LeetCode Contests**
+- 💻 Building **Backend Ready Systems**
+- 🧠 **First principles thinker**
+- Currently exploring **Machine Learning and Data Science**
+- 👯 Open to **Open Source collaborations**
+- Reach me at -  **mandal07mayukh@gmail.com**
+
 <br>
 
-<h2 align="center">GSSoC-24 Badges 🪶</h2>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</div>
+## 🌐 Connect
 
-<br>
+<p align="center">
+<a href="https://linkedin.com/in/mayukh-mandal-a8a938276"><img src="https://skillicons.dev/icons?i=linkedin" height="55"/></a>
+<a href="https://leetcode.com/u/mayukh_0707/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55"/></a>
+<a href="https://codeforces.com/profile/mayukh_0707"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="55"/></a>
+<a href="https://auth.geeksforgeeks.org/user/mayukh_07/profile"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="55"/></a>
+<a href="https://www.hackerrank.com/mandal07mayukh"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="55"/></a>
+<a href="https://instagram.com/mandal._.mayukh"><img src="https://skillicons.dev/icons?i=instagram" height="55"/></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayukh-mandal2005&label=Profile%20views&color=0e75b6&style=flat" alt="mayukh-mandal2005" /> </p>
+</td>
+<td valign="top" width="45%">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= SKILLS ================= -->
+## 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,linux,postgresql,sqlite&theme=dark" />
+</p>
+
+---
+
+<!-- ================= PROBLEM SOLVING PHILOSOPHY ================= -->
+## 🧠 Problem Solving Philosophy
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00E5E5&center=true&vCenter=true&width=700&lines=Brute+Force+first.+Optimize+second.;Every+edge+case+is+a+lesson.;First+principles+or+nothing.;The+rarest+breed+is+forged+in+struggle." />
+</p>
+
+---
+
+<!-- ================= LEETCODE ================= -->
+## ⚔️ Problem Solving (Live)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mayukh_0707?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mayukh-mandal2005&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=mayukh-mandal2005&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mayukh-mandal2005&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- ================= GRAPH ================= -->
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayukh-mandal2005&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- ================= SNAKE ================= -->
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- ================= PROJECT ================= -->
+## 🚀 Featured Projects
+
+### 🧪 Quiz Master
+> Full-stack web app with real backend structure
+
+- ⚙️ Flask + SQLAlchemy (MVC Architecture)
+- 🔐 Role-based Auth — Admin & User sessions
+- 📊 Quiz engine with scoring + attempt tracking
+- 📈 Data visualization via matplotlib
+- 🗃️ Normalized relational DB with constraints
+
+🔗 [GitHub Repo](https://github.com/Mayukh-Mandal2005/Quiz-Master)
+
+---
+
+### 🚗 Vehicle Parking Management System
+> Designed a backend system simulating real-world parking operations & constraints
+
+- 🧠 Designed **slot allocation strategy** (nearest/available slot optimization)
+- 🔄 Implemented **state management** for slots (free → occupied → released)
+- ⏱️ Built **entry-exit tracking system** with timestamp-based duration calculation
+- 💰 Dynamic **billing logic based on parking duration**
+- 🗃️ Designed relational schema (vehicles, slots, tickets) with constraints
+- 🔐 Role-based access for admin monitoring & control
+- ⚙️ RESTful APIs for booking, releasing, and querying parking state
+
+🔗 [GitHub Repo](https://github.com/Mayukh-Mandal2005/vehicle_parking_app)
+
+---
+<!-- ================= FOCUS ================= -->
+## 🔥 Current Focus
+
+- 🌳 DP, Trees, Graphs & Advanced DSA
+- ⚡ Speed + Pattern Recognition  
+- 🧠 Deep understanding > surface tricks
+
+---
+
+<!-- ================= ACHIEVEMENTS ================= -->
+## 🪶 GSSoC-24 Badges
+
+<p align="center">
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90"/>
+  </a>
+</p>
+
+---
+
+<!-- ================= PERSONAL STATEMENT ================= -->
+## ⚡ Personal Statement
+
+> *"I don't fear pain. I don't fear failure. I don't fear death.*
+> *Let Death be afraid — because I'm chasing the rarest breed of warrior —*
+> *one that even the gods would be proud to forge."*
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mayukh-mandal2005&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
