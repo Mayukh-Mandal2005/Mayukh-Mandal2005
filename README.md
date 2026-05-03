@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi+👋+I'm+Mayukh+Mandal;I+Build+Logic+Into+Systems;DSA+%2B+Backend+Engineer" />
 </p>
 
-<h3 align="center">⚔️ First-Principles Thinker • Problem Solver • Builder</h3>
+<h3 align="center">⚔️ First-Principles Thinker • Problem Solver • Computer Science Engineer</h3>
 
 ---
 
@@ -140,8 +140,7 @@
 ## 🔥 Current Focus
 
 - 🌳 DP, Trees, Graphs & Advanced DSA
-- ⚡ Speed + Pattern Recognition  
-- 🧠 Deep understanding > surface tricks
+- ⚡ Speed + Pattern Recognition 
 
 ---
 
