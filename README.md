@@ -116,7 +116,6 @@
 - 🔐 Role-based Auth — Admin & User sessions
 - 📊 Quiz engine with scoring + attempt tracking
 - 📈 Data visualization via matplotlib
-- 🗃️ Normalized relational DB with constraints
 
 🔗 [GitHub Repo](https://github.com/Mayukh-Mandal2005/Quiz-Master)
 
